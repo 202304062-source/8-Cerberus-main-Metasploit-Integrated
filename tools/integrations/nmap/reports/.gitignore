@@ -1,0 +1,4 @@
+# Keep generated scan output out of Git.
+*
+!.gitignore
+!.gitkeep

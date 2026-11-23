@@ -1,0 +1,4 @@
+# Runtime-downloaded upstream tools, virtual environments, and sensitive local state
+/.runtime/
+/reports/*
+!/reports/.gitkeep
